@@ -3,7 +3,7 @@
 Personal Note: This was the first programming project I undertook. The general
 structure for the program was provided by Paul Miller, however the implementation
 of the program is my own. This project was completed to satisfy the course 
-requirementsof COSC1076 Advanced Programming Techniques at RMIT University in 
+requirements of COSC1076 Advanced Programming Techniques at RMIT University in 
 Semester 2 of 2015.
 
 # Connect 4
