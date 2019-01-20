@@ -57,5 +57,5 @@ Ctrl-D character is read by the executable, and varies the need to clear the
 input buffer after Ctrl-D has been pressed. In OSX, there is a 
 requirement to clear the buffer otherwise the game gets stuck in an infinite 
 loop. This is not the case on Linux. This affects reading from input using 
-fgets(), and so the  "readrestofline()" function has not been utilised in the
+fgets(), and so the  "read_rest_of_line()" function has not been utilised in the
 get_input() function specified in helpers.c to ensure Linux compatability.
